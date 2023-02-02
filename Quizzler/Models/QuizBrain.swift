@@ -17,6 +17,7 @@ struct QuizBrain {
         Question(text: "One + Nine is equal to Eight", answer: "False"),
         Question(text: "The Elephant has wings", answer: "False"),
         Question(text: "A chair stronger than a hamburger", answer: "True"),
-        Question(text: "Are you clever?", answer: "True")
+        Question(text: "Are you clever?", answer: "True"),
+        Question(text: "Five + Two is equal to Seven", answer: "True")
     ]
 }
